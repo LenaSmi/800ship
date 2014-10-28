@@ -1,0 +1,1 @@
+core/resources/login.feature:2 core/resources/password_management.feature:2
